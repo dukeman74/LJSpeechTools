@@ -13,6 +13,7 @@ To install:
 
 ```bash
 sudo apt install ffmpeg
+sudo apt install zip
 pip install -r requirements.txt
 ```
 
